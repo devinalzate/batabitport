@@ -1,0 +1,13 @@
+.main-tables-container {
+    justify-content: center;
+}
+.product-card-container-breakpoint {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+}
