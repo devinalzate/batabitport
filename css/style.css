@@ -132,7 +132,7 @@ main {
 /* Tablas */
 .main-tables-container {
     display: flex;
-    height: 370px;
+    height: 380px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
